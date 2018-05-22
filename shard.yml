@@ -1,0 +1,13 @@
+name: checkup
+version: 0.1.0
+
+authors:
+  - Evandro Junior <evandrojr@gmail.com>
+
+targets:
+  checkup:
+    main: src/checkup.cr
+
+crystal: 0.24.2
+
+license: MIT
