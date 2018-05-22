@@ -4,7 +4,14 @@ TODO: Write a description here
 
 ## Installation
 
+Add all required libraries for your platform:
+https://github.com/crystal-lang/crystal/wiki/All-required-libraries
+
+Install mutt.
+
 Use this site to setup mutt to send emails: http://jrom.net/gmail-in-mutt
+
+
 
 TODO: Write installation instructions here
 
