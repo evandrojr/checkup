@@ -8,6 +8,13 @@ targets:
   checkup:
     main: src/checkup.cr
 
+dependencies:
+  schedule:
+    github: hugoabonizio/schedule.cr
+  awesome_print:
+    github: evandrojr/awesome_print.cr
+
+
 crystal: 0.24.2
 
 license: MIT

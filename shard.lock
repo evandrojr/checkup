@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  awesome_print:
+    github: evandrojr/awesome_print.cr
+    version: 0.1.15
+
+  schedule:
+    github: hugoabonizio/schedule.cr
+    version: 0.2.0
+

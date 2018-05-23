@@ -11,7 +11,14 @@ Install mutt.
 
 Use this site to setup mutt to send emails: http://jrom.net/gmail-in-mutt
 
+TLDR, add this to your ~/.muttrc
 
+```
+set from = "your-email@gmail.com"
+set realname = "Your Name"
+set smtp_url = "smtp://email@gmail-or-domain@smtp.gmail.com:587/"
+set smtp_pass = "your-pass"
+```
 
 TODO: Write installation instructions here
 
